@@ -1,0 +1,12 @@
+var Mountain = ["K2", "MountEverest", "Gasherbru", "Chogori"];
+var Rivers = ["Indus", "Sindhu", "Jhelum"];
+var Countries = ["Pakistan", "India", "USA", "China"];
+var Languages = ["Sindhi", "English", "Urdu"];
+console.log("Mountains");
+console.log(Mountain);
+console.log("\n Rivers");
+console.log(Rivers);
+console.log("\n Countries");
+console.log(Countries);
+console.log("\n Languages");
+console.log(Languages);
